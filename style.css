@@ -10,7 +10,7 @@ body {
 }
 
 header, footer {
-    background-color: #3498db;
+    background-color: #fff;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -23,8 +23,11 @@ footer {
 }
 
 #madLibOutput {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
+    color: black;
+    text-decoration: underline;
+    text-shadow: hotpink 1px 0 10px;
+    
 }
 
-/* Add more styles based on your creativity and design preferences */
